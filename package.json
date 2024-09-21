@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "jaehuiui",
-  "license": "ISC",
+  "license": "MIT",
   "packageManager": "pnpm@9.8.0",
   "dependencies": {
     "@changesets/cli": "^2.27.8"
