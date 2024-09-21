@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Prettier config",
   "main": "index.json",
-  "keywords": ["prettier"],
+  "keywords": [
+    "prettier"
+  ],
   "author": "jaehuiui <dev.jaehuiui@gmail.com>",
   "license": "MIT",
   "devDependencies": {

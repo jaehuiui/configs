@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "ESLint config",
   "main": "index.js",
-  "keywords": ["eslint"],
+  "keywords": [
+    "eslint"
+  ],
   "author": "jaehuiui <dev.jaehuiui@gmail.com>",
   "license": "MIT",
   "dependencies": {
