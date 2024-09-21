@@ -1,0 +1,16 @@
+{
+  "name": "@jaehuiui/configs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jaehuiui",
+  "license": "ISC",
+  "packageManager": "pnpm@9.8.0",
+  "dependencies": {
+    "@changesets/cli": "^2.27.8"
+  }
+}
